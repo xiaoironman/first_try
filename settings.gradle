@@ -1,0 +1,1 @@
+include ':app', ':Flash', ':myapplication2', ':gnssinfo'
