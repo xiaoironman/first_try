@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Exercise.iml" filepath="$PROJECT_DIR$/Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/Flash/Flash.iml" filepath="$PROJECT_DIR$/Flash/Flash.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first_try.iml" filepath="$PROJECT_DIR$/first_try.iml" />
       <module fileurl="file://$PROJECT_DIR$/gnssinfo/gnssinfo.iml" filepath="$PROJECT_DIR$/gnssinfo/gnssinfo.iml" />
       <module fileurl="file://$PROJECT_DIR$/myapplication2/myapplication2.iml" filepath="$PROJECT_DIR$/myapplication2/myapplication2.iml" />
     </modules>
